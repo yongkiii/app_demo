@@ -7,7 +7,7 @@ import android.os.StrictMode;
 import  org.ksoap2.serialization.SoapPrimitive;
 
 public class CallWCF {
-    static String ns = "http://tempuri.org/";
+    static String ns = "http://tempuri.org/";//gg
     static String methodname ="Reg";
     static String methodname1 = "Login";
     static String methodname2 = "Logout";
